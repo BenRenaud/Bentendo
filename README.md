@@ -1,2 +1,2 @@
 # Bentendo
- This is my final project from my Software Development class.
+ Unity devloped game by Ben Renaud.
