@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: c0de543c3d6a4a04d9239cab44f55be5
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 0e54a0d2ea119344bba9193003308ddc
+  - enabled: 1
+    path: Assets/Scenes/ApplePickerGame.unity
+    guid: 127e0c7325e17eb4badff9983d67aa71
+  - enabled: 1
+    path: Assets/Scenes/SinglePlayer.unity
+    guid: ada043b5857946649a7fa6b4bdaa55b8
+  - enabled: 1
+    path: Assets/Scenes/LoseScene.unity
+    guid: 775761c34d7a65847bcbbf3bc07103bb
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: 92823df6bd7d3124ab26e4f6b44d3bfc
+  - enabled: 1
+    path: Assets/Scenes/SettingScene.unity
+    guid: 4364835a4709842428559514979ee2af
+  - enabled: 1
+    path: Assets/Scenes/MemMainMenu.unity
+    guid: 1b6a7fbda63a96b4aa28aa715fff66f1
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: e3a336b2be2843246ae6da48a114abac
+  - enabled: 1
+    path: Assets/Scenes/_Scene_0.unity
+    guid: 585bda21fb3366b4d810d9f229de85a9
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: c56935822fb5fa9488e3bf2beaba5998
+  - enabled: 1
+    path: Assets/Scenes/GoldMainScene.unity
+    guid: 798588eedcc0b4844bb9070b965d765a
+  - enabled: 1
+    path: Assets/Scenes/SilverMainScene.unity
+    guid: c0474e8d233948243aad3d8752491658
+  - enabled: 1
+    path: Assets/Scenes/SpaceWinScene.unity
+    guid: 5d01ce50752573e4ca22d1023f269fad
+  - enabled: 1
+    path: Assets/Scenes/WinScene1.unity
+    guid: 375fe712904103341813943e04335c26
+  - enabled: 1
+    path: Assets/Scenes/WinScene2.unity
+    guid: 28deb76892b780844adfbc78efc27947
+  m_configObjects: {}
